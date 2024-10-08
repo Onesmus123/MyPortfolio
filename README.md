@@ -1,4 +1,5 @@
-<h2 align="center">Personal Portfolio <br/> </br> <a target="_blank" href="https://mutyauvyu.netlify.app/">Onesmus Mutyauvyu</a></h2>
+<h2 align="center">Personal Portfolio <br/></br> 
+<a target="_blank" href="https://mutyauvyu.netlify.app/">Onesmus Mutyauvyu</a></h2>
 
 <br/>
 
