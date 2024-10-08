@@ -53,7 +53,7 @@ const Nav = () => {
         <ul className='NavbarLinks'>
             <li onClick={hideMenu}><Link to="/"><AiOutlineHome/> Home</Link></li>
             <li onClick={hideMenu}><Link to="/About"><BsPerson/> About</Link></li>
-            <li onClick={hideMenu}><Link to="/Project"><BsCodeSlash/> Project</Link></li>
+            <li onClick={hideMenu}><Link to="/Project"><BsCodeSlash/> Projects</Link></li>
             <li onClick={hideMenu}><Link to="/Resume"><CgFileDocument/> Resume</Link></li>
         </ul>
         
